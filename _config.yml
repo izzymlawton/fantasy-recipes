@@ -1,6 +1,6 @@
 
 # SITE CONFIGURATION
-url: "https://yoursite.netlify.app"   #change this to yours
+url: "https://fictionalfoods.netlify.app"   #change this to yours
 repository: izzymlawton/fantasy-recipes
 title: fanciful fictional food
 recipemenu: false # you can change to true and a menu of all recipes will appear

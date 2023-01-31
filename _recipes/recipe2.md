@@ -8,7 +8,7 @@ published: true
 *“It is dull, Son of Adam, to drink without eating,” said the Queen presently. “What would you like best to eat?”*\
 *“Turkish Delight, please, your Majesty,” said Edmund.*
 
-  Narnia, The Lion, the Witch and The Wardrobe.  C.S. Lewis, Chapter Four
+  Narnia, The Lion, the Witch and The Wardrobe. Chapter Four,  C.S. Lewis.
 
 ## Ingredients
 

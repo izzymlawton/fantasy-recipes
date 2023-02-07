@@ -7,7 +7,7 @@ layout: recipe
 *"Cake. Chocolate cake. You slithered like a serpent into the school kitchen and ate MY PERSONAL SNACK!"*\
 *\-Matilda, Roald Dahl* 
 
-**Ingredients**
+**Ingredients:**
 
 **For the Cake**
 
@@ -43,7 +43,7 @@ layout: recipe
 
 1 teaspoon vanilla extract
 
-**Instructions**
+**Method:**
 
 1. Preheat oven to 350°F. Grease and flour two 9-inch round baking pans.
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, baking powder, baking soda, and salt.

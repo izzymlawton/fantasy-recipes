@@ -8,9 +8,9 @@ published: true
 *“It is dull, Son of Adam, to drink without eating,” said the Queen presently. “What would you like best to eat?”*\
 *“Turkish Delight, please, your Majesty,” said Edmund.*
 
-  Narnia, The Lion, the Witch and The Wardrobe. Chapter Four,  C.S. Lewis.
+  Narnia, The Lion, the Witch and The Wardrobe. Chapter Four, By  C.S. Lewis.
 
-## Ingredients
+**Ingredients:**
 
 * 2 cups sugar 
 * 2 cups water
@@ -23,7 +23,7 @@ published: true
 * 1/2 cup confectioners’ sugar
 * 1/2 cup finely chopped pistachios
 
-## Method
+**Method:**
 
 1. In a medium saucepan, combine the sugar, water, lemon juice, and cream of tartar. Place the pan over medium-high heat and heat until the mixture comes to a boil. Reduce the heat to medium-low and simmer for 10 minutes.
 2. Remove the pan from the heat and stir in the orange flower water, rose water, and red food coloring.

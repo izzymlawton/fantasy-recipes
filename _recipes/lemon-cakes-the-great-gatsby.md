@@ -10,12 +10,12 @@ layout: recipe
 
 *“Of course, of course! They’re fine!” and he added hollowly, “…old sport.”*
 
-*\-The Great Gatbsy. F. Scott. Fitzgerlad*
+\-The Great Gatbsy. By, F. Scott. Fitzgerlad
 
 **Ingredients:**
 
-*  2 cups all-purpose flour
-*  2 teaspoons baking powder
+* 2 cups all-purpose flour
+* 2 teaspoons baking powder
 * 1/2 teaspoon salt
 * 1/2 cup (1 stick) unsalted butter, at room temperature 
 * 1 cup granulated sugar

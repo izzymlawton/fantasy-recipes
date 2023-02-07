@@ -1,7 +1,7 @@
 /*! CSS bare bones for recipes site */
 
  html {
-  font-family: sans-serif;
+  font-family:'Times New Roman', Times, serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -14,4 +14,57 @@
 
 /* the rest is up to you */
 
+body {
 
+  background-color:rgb(13, 81, 124);
+}
+h1 {
+color: rgb(1, 1, 42);
+margin-bottom: 12px;
+font-family: fantasy;
+
+}
+
+p { 
+  color: rgb(63, 17, 6);
+  margin-bottom: 1em;
+}
+
+h2 {
+  color: rgb(1, 1, 42);
+  margin: 0 0 12px 0;
+ font-family: fantasy;
+}
+
+main {
+width:80%;
+max-width:900px;
+border:1px solid purple;
+padding:0 12px 0 12px;
+margin:0 auto;
+background-color:white;
+}
+
+img {
+width:100%;
+
+/* margin-left:10px; */
+}
+
+ul {
+
+  margin-left: 20px;
+
+}
+
+li {
+
+  font-size: .8em;
+  margin-bottom:10px
+}
+
+.caption {
+float:right;
+width:35%;
+font-size: .8em;
+}

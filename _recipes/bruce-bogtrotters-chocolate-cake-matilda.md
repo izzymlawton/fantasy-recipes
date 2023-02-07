@@ -5,7 +5,7 @@ order: 4
 layout: recipe
 ---
 *"Cake. Chocolate cake. You slithered like a serpent into the school kitchen and ate MY PERSONAL SNACK!"*\
-*\-Matilda, Roald Dahl* 
+-Matilda, By, Roald Dahl 
 
 **Ingredients:**
 

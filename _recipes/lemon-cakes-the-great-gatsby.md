@@ -10,7 +10,7 @@ layout: recipe
 
 *“Of course, of course! They’re fine!” and he added hollowly, “…old sport.”*
 
-\-The Great Gatbsy. By, F. Scott. Fitzgerlad
+The Great Gatbsy. By, F. Scott. Fitzgerlad
 
 ![lemon cake on plate surrounded by forks and sun glasses](../uploads/suhyeon-choi-xuhamfz0ok-unsplash.jpg "lemon cake")
 

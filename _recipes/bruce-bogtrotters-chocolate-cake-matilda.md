@@ -5,7 +5,7 @@ order: 4
 layout: recipe
 ---
 *"Cake. Chocolate cake. You slithered like a serpent into the school kitchen and ate MY PERSONAL SNACK!"*\
--Matilda, By, Roald Dahl 
+Matilda, By, Roald Dahl 
 
 ![gooey chocolate cake with knife](../uploads/food-photographer-jennifer-pallian-grzyr210m0u-unsplash.jpg "chocolate cake")
 

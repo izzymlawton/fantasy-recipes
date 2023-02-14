@@ -10,7 +10,9 @@ layout: recipe
 
 *'Indeed it is' said Gimli.'*[](http://www.thetolkienwiki.org/wiki.cgi?Gimli)
 
-\-Fellowship of the Ring, Chapter 9, By J.R.R Tolkien 
+Fellowship of the Ring,  By J.R.R Tolkien 
+
+![bread on plate](../uploads/waldemar-zevnvcuyijg-unsplash.jpg "lembas bread")
 
 **Ingredients:**
 

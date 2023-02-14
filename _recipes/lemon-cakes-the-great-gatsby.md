@@ -12,6 +12,8 @@ layout: recipe
 
 \-The Great Gatbsy. By, F. Scott. Fitzgerlad
 
+![lemon cake on plate surrounded by forks and sun glasses](../uploads/suhyeon-choi-xuhamfz0ok-unsplash.jpg "lemon cake")
+
 **Ingredients:**
 
 * 2 cups all-purpose flour

@@ -4,6 +4,8 @@ date: 2023-01-31T15:55:58.919Z
 order: 3
 layout: recipe
 ---
+![](../uploads/img_0863-720x720.jpg "blue cookies")
+
 *"I recoiled at the taste, because I was expecting apple juice. It wasn’t that at all. It was chocolate-chip cookies. Liquid cookies. And not just any cookies – my mom’s homemade blue chocolate-chip cookies, buttery and hot, with the chips still melting."*
 
 \-The lightening Theif, By Rick Riordan 

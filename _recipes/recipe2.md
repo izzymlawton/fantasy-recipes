@@ -5,12 +5,12 @@ order: 1
 layout: recipe
 published: true
 ---
-![](../uploads/turkish-delight-6757762_1280.jpg "Turkish delight ")
-
 *“It is dull, Son of Adam, to drink without eating,” said the Queen presently. “What would you like best to eat?”*\
 *“Turkish Delight, please, your Majesty,” said Edmund.*
 
   Narnia, The Lion, the Witch and The Wardrobe. Chapter Four, By  C.S. Lewis.
+
+![lots of colourful cubes of Turkish delight](../uploads/turkish-delight-6757762_1280.jpg "Turkish delight")
 
 **Ingredients:**
 

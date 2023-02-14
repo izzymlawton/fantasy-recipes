@@ -6,7 +6,7 @@ layout: recipe
 ---
 *"I recoiled at the taste, because I was expecting apple juice. It wasn’t that at all. It was chocolate-chip cookies. Liquid cookies. And not just any cookies – my mom’s homemade blue chocolate-chip cookies, buttery and hot, with the chips still melting."*
 
-\-The lightening Theif, By Rick Riordan 
+The lightening Theif, By Rick Riordan 
 
 ![blue cookies with chocolate chips on wooden table](../uploads/img_0863-720x720.jpg "blue cookies")
 

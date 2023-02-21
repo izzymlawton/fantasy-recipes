@@ -4,15 +4,14 @@ date: 2023-02-07T13:00:54.093Z
 order: 4
 layout: recipe
 ---
-*"Cake. Chocolate cake. You slithered like a serpent into the school kitchen and ate MY PERSONAL SNACK!"*
-
+*"Cake. Chocolate cake. You slithered like a serpent into the school kitchen and ate MY PERSONAL SNACK!"*\
 Matilda, By, Roald Dahl 
 
 ![gooey chocolate cake with knife](../uploads/food-photographer-jennifer-pallian-grzyr210m0u-unsplash.jpg "chocolate cake")
 
-**Ingredients:**
+## **Ingredients:**
 
-**For the Cake**
+### **For the Cake**
 
 2 cups all-purpose flour 
 
@@ -34,7 +33,7 @@ Matilda, By, Roald Dahl
 
 1 teaspoon vanilla extract
 
-**For the Fudge Frosting** 
+### **For the Fudge Frosting** 
 
 1/2 cup butter, softened
 
@@ -46,7 +45,7 @@ Matilda, By, Roald Dahl
 
 1 teaspoon vanilla extract
 
-**Method:**
+## **Method:**
 
 1. Preheat oven to 350°F. Grease and flour two 9-inch round baking pans.
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, baking powder, baking soda, and salt.

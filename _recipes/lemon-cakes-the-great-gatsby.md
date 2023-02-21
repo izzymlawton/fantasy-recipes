@@ -1,5 +1,5 @@
 ---
-title: lemon cakes- The Great Gatsby
+title: Lemon Cakes- The Great Gatsby
 date: 2023-02-07T15:35:54.342Z
 order: 5
 layout: recipe

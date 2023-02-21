@@ -6,11 +6,12 @@ layout: recipeshome
 published: true
 date: 2023-02-21T12:42:50.738Z
 ---
+“Perhaps the story in the book is just the lid on a pan: It always stays the same, but underneath there’s a whole world that goes on - developing and changing like our own world.”\
+-Inkheart by Cornelia Funke
 
-Here is an introduction to my recipe site
-
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Once upon a Time...\
+\
+Food, just like stories, can transport you to an entrie differnt world and range of emotions. I wanted a way for people to be able to transport into the fictional worlds they know and love. From American classics like The Great Gatsby to childhood faviourtes such as Roald Dahl's Matilda. Bake your way into a fanciful fictional world by the use of declious, dreamy and devine food.\
+These recipes are perfect for a night of entertaining freinds, family or alone with your favourite book.\
+\
+...The end

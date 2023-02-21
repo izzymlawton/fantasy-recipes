@@ -4,17 +4,14 @@ date: 2023-02-07T15:35:54.342Z
 order: 5
 layout: recipe
 ---
-*Together we scrutinized the twelve lemon cakes from the delicatessen shop.*
-
-*“Will they do?” I asked.*
-
-*“Of course, of course! They’re fine!” and he added hollowly, “…old sport.”*
-
+*Together we scrutinized the twelve lemon cakes from the delicatessen shop.*\
+*“Will they do?” I asked.*\
+*“Of course, of course! They’re fine!” and he added hollowly, “…old sport.”*\
 The Great Gatbsy. By, F. Scott. Fitzgerlad
 
 ![lemon cake on plate surrounded by forks and sun glasses](../uploads/suhyeon-choi-xuhamfz0ok-unsplash.jpg "lemon cake")
 
-**Ingredients:**
+## **Ingredients:**
 
 * 2 cups all-purpose flour
 * 2 teaspoons baking powder
@@ -28,7 +25,7 @@ The Great Gatbsy. By, F. Scott. Fitzgerlad
 * 1 teaspoon pure vanilla extract 
 * Zest of 1 lemon
 
-**Method:**
+## **Method:**
 
 1. Preheat oven to 350 degrees F. Line a 12-cup muffin tin with paper liners.
 2. In a medium bowl, whisk together the flour, baking powder, and salt.

@@ -1,9 +1,10 @@
 ---
+title: Your favourite fictional foods from the books you love
+coverimage: ../uploads/untitled_artwork.png
+permalink: /
 layout: recipeshome
-title: Here is the name of your recipe site
-permalink: "/"
-coverimage: ../uploads/bookcover.jpg
 published: true
+date: 2023-02-21T12:42:50.738Z
 ---
 
 Here is an introduction to my recipe site

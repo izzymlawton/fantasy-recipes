@@ -1,9 +1,11 @@
 /*! CSS bare bones for recipes site */
 
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Parisienne&family=Tangerine&display=swap');
+
  html {
   font-family:'Times New Roman', Times, serif;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 50%;
+  -webkit-text-size-adjust: 50%;
 }
 
 *  {
@@ -15,20 +17,49 @@
 /* the rest is up to you */
 
 body {
-
-  background-color:rgb(13, 81, 124);
+  background-color:rgb(79, 126, 213);
+  background-image: url(https://fictionalfoods.netlify.app/uploads/background-magic.png);
+  background-position:center;
+  background-size:contain;
+  background-repeat:repeat;
 }
+
 h1 {
-color: rgb(1, 1, 42);
+color:  rgb(63, 17, 6);
 margin-bottom: 12px;
-font-family: fantasy;
-
+font-family: 'Tangerine', cursive;
+font-weight: 200;
+font-size: 3em;
+/* font-family: fantasy; */
+margin-top: 12px;
+/* margin-right: 1em; */
+padding: 2px 20px 2px;
+text-align: center;
+background-color: rgb(245, 193, 134);
+background-position: ;
+line-height: 3;
 }
 
-p { 
+p  {
+  color: rgb(63, 17, 6);
+  /* margin-bottom: 1em; */
+  /* text-align: center; */
+  /* font-family: fantasy; */
+  font-size: 1.5em;
+}
+
+.recipelist p {
+
+  font-family: 'Times New Roman', Times, serif;
+
+}
+/* .recipe main p:first-of-type,.recipe main p:nth-of-type(2n) {
   color: rgb(63, 17, 6);
   margin-bottom: 1em;
-}
+  text-align:justify;
+  font-family: 'Times New Roman', Times, serif;
+
+} */
 
 h2 {
   color: rgb(1, 1, 42);
@@ -39,10 +70,11 @@ h2 {
 main {
 width:80%;
 max-width:900px;
-border:1px solid purple;
-padding:0 12px 0 12px;
-margin:0 auto;
-background-color:white;
+border:10px ridge rgb(46, 26, 6);
+padding:5px 12px 0 12px;
+margin: 0 auto;
+background-color:rgb(243, 237, 205);
+margin-bottom: 1em;
 }
 
 img {
@@ -54,17 +86,76 @@ width:100%;
 ul {
 
   margin-left: 20px;
+font-size: 0.5em;
+}
+ol {
+margin-left: 50px;
+font-size: 0.5em;
 
 }
-
 li {
 
-  font-size: .8em;
+  font-size: 3em;
   margin-bottom:10px
+  margin-left:
+  
 }
 
 .caption {
 float:right;
-width:35%;
+width:18%;
 font-size: .8em;
+font-family: 'Times New Roman', Times, serif;
+}
+.recipe-teaser h1 {
+  font-size: 2em;
+}
+
+footer p {
+  text-align: center;
+  color:white;
+  line-height: 3;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+nav {
+  background-color:rgb(245, 193, 134);
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 0 0 10px 0;
+  min-width:100px;
+  position:static;
+  top:0;
+  left:0;
+  text-align:center;
+}
+
+nav ul li {
+  font-family: 'Tangerine', cursive;
+  font: italic;
+  font-size:x-large;
+  inlin
+  padding: 5px;
+  list-style:none;
+
+
+}
+
+ @media screen and (max-width:700px) {
+
+  nav {
+padding:1em;
+}
+
+nav ul{
+  font-size:1em;
+  text-align:center;
+}
+
+.recipe-teaser{
+  width:100%;
+  margin:auto;
+  padding:auto;
+} */
 }
